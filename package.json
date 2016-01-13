@@ -19,8 +19,8 @@
   "author": "Jason Brown",
   "license": "MIT",
   "dependencies": {
-    "compass-node": "^0.1.4",
-    "loader-utils": "^0.2.5",
+    "compass-node": "^0.1.6",
+    "loader-utils": "^0.2.12",
     "node-sass": "^3.4.2"
   },
   "devDependencies": {
